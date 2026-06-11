@@ -1,0 +1,5 @@
+# Copy this to terraform.tfvars (gitignored) and fill in your values.
+
+aws_region   = "us-east-1"
+bucket_name  = "your-globally-unique-site-bucket-name"
+project_name = "example-project-name"
